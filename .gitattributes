@@ -1,3 +1,0 @@
-Mnist/mnist_train.xls filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-Mnist/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
